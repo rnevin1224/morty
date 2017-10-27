@@ -1,2 +1,2 @@
-# morty
+@morty
 destiny 2
